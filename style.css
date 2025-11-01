@@ -12,10 +12,6 @@ header {
   text-align: center;
 }
 
-.logo {
-  color: #6C63FF;
-}
-
 nav a {
   color: white;
   text-decoration: none;
@@ -115,4 +111,5 @@ footer {
   text-align: center;
   padding: 15px;
   margin-top: 50px;
+
 }
